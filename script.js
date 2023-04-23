@@ -2,7 +2,7 @@ const msg = document.querySelector('.msg');
 const guess = document.querySelector('input');
 const btn = document.querySelector('.btn');
 let play = false;
-let sWords = ['python', 'javascript', 'c++', 'php','java', 'html', 'reactjs', 'angulr', 'swift', 'android'];
+let sWords = ['python', 'javascript', 'c++', 'php','java', 'html', 'reactjs', 'angular', 'swift', 'android','mysql','sql','pearl','nodejs','typscript','mongodb','kotlin','ruby','nosql'];
 let newWords='';
 let ranWords ="";
 
